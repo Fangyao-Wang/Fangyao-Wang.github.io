@@ -12,10 +12,10 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Fangyao Wang's Website"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Second-year PhD student at UW-Madison. Research Interests: Land, Environment, & Urban Economics."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://fangyao-wang.github.io
 baseurl                  : ""
-repository               : "academicpages/academicpages.github.io"
+repository               : "fangyao-wang/fangyao-wang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Fangyao Wang"
   pronouns         : # example: "he/his"  
-  bio              : "Second-year PhD student. Research Interests: Land, Envivonment, & Urban Economics"
+  bio              : ""
   location         : "Madison, WI, USA"
   employer         : "University of Wisconsin-Madison"
   uri              : # URL
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "fangyao-wang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
